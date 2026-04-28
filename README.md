@@ -80,9 +80,9 @@ We believe in transparency about what the model *can't* do:
  
 ## 👥 Team
 
-Abenov Altair
-Akzhigitov Abilkaiyr
-Abdygalykov Dinmukhamed
+- Abenov Altair
+- Akzhigitov Abilkaiyr
+- Abdygalykov Dinmukhamed
  
 ---
  
